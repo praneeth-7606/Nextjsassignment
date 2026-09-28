@@ -39,3 +39,12 @@ yarn-error.log*
 next-env.d.ts
 
 serviceAccountKey.json
+
+# OpenCode agent local files (never commit)
+.opencode/
+opencode.json
+.opencode-cache/
+
+# gitflow local folders (never commit)
+gitflow/
+.gitflow/
